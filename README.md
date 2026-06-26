@@ -1,29 +1,34 @@
-# apexplanet-data-analytics
 ApexPlanet Data Analytics Internship
-Task 2 - SQL for Data Extraction
 
-Dataset
+Task 1 - Data Cleaning and Preprocessing
 
-Superstore Sales Dataset
+- Cleaned raw sales dataset
+- Handled missing values
+- Removed duplicates
+- Standardized data formats
+- Prepared dataset for analysis
 
-SQL Queries Performed
+Task 2 - Data Extraction and Analysis
 
-- SELECT
-- WHERE
-- ORDER BY
-- LIMIT
-- GROUP BY
-- Aggregate Functions
+- SQL queries for data extraction
+- Sales analysis using SQL
+- Generated analytical report
 
-Business Questions Answered
+Task 3 - Data Visualization and Dashboarding
 
-1. Top 5 Products by Sales
-2. Sales by Category
-3. Product-wise Sales Analysis
+- Sales by Category
+- Sales by Region
+- Monthly Sales Trend
+- Top 10 Products by Sales
+- Segment-wise Sales
+- Ship Mode Distribution
 
 Tools Used
 
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 - SQL
+- Google Colab
 - GitHub
-
-Task completed as part of ApexPlanet Data Analytics Internship.
