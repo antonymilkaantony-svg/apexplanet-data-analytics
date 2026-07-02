@@ -14,21 +14,19 @@ Task 2 - Data Extraction and Analysis
 - Sales analysis using SQL
 - Generated analytical report
 
-Task 3 - Data Visualization and Dashboarding
+Task 3 - Power BI Dashboard
 
-- Sales by Category
-- Sales by Region
-- Monthly Sales Trend
-- Top 10 Products by Sales
-- Segment-wise Sales
-- Ship Mode Distribution
+## Tools Used
+- Microsoft Power BI Desktop
 
-Tools Used
+## Dashboard Includes
+- Total Sales Card
+- Sales by Year (Line Chart)
+- Sales by Category (Bar Chart)
+- Sales by Category (Donut Chart)
+- Sales by Product
+- Category, Region and Order Date Slicers
 
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- SQL
-- Google Colab
-- GitHub
+## Files
+- Task3_Dashboard.pbix
+- Dashboard Screenshot
